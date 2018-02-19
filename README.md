@@ -9,10 +9,8 @@
 ## Case studies 
 ### Yahoo Breach 2013-2014
 #### In September 2016, the once dominant Internet giant, while in negotiations to sell itself to Verizon, announced it had been the victim of the biggest data breach in history, likely by “a state-sponsored actor,” in 2014. The attack compromised the real names, email addresses, dates of birth and telephone numbers of 500 million users. The company said the "vast majority" of the passwords involved had been hashed using the robust bcrypt algorithm.
-
 #### A couple of months later, in December, it buried that earlier record with the disclosure that a breach in 2013, by a different group of hackers had compromised 1 billion accounts. Besides names, dates of birth, email addresses and passwords that were not as well protected as those involved in 2014, security questions and answers were also compromised. In October of 2017, Yahoo revised that estimate, saying that, in fact, all 3 billion user accounts had been compromised.
-
-#### The breaches knocked an estimated $350 million off Yahoo’s sale price. Verizon eventually paid $4.48 billion for Yahoo’s core Internet business. The agreement called for the two companies to share regulatory and legal liabilities from the breaches. The sale did not include a reported investment in Alibaba Group Holding of $41.3 billion and an ownership interest in Yahoo Japan of $9.3 billion.
+#### The breaches knocked an estimated $350 million off Yahoo’s sale price. Verizon eventually paid $4.48 billion for Yahoo’s core Internet business. The agreement called for the two companies to share regulatory and legal liabilities from the breaches.
 
 ## Process of Software Development
 ####
@@ -28,4 +26,5 @@ search online software development vulnerability PDF articles
 ### References
 #### https://en.wikipedia.org/wiki/Software_development
 #### https://en.wikipedia.org/wiki/Vulnerability_(computing)
-#### https://www.csoonline.com/article/2130877/data-breach/the-biggest-data-breaches-of-the-21st-century.html
+#### https://www.csoonline.com/article/3176181/security/yahoo-execs-botched-its-response-to-2014-breach-investigation-finds.html
+https://www.csoonline.com/article/2130877/data-breach/the-biggest-data-breaches-of-the-21st-century.html
