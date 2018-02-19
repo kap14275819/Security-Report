@@ -9,11 +9,16 @@
 ## Case studies 
 ### Yahoo Breach 2013-2014
 #### In September 2016, the once dominant Internet giant, while in negotiations to sell itself to Verizon, announced it had been the victim of the biggest data breach in history, likely by “a state-sponsored actor,” in 2014. The attack compromised the real names, email addresses, dates of birth and telephone numbers of 500 million users. The company said the "vast majority" of the passwords involved had been hashed using the robust bcrypt algorithm.
+
 #### A couple of months later, in December, it buried that earlier record with the disclosure that a breach in 2013, by a different group of hackers had compromised 1 billion accounts. Besides names, dates of birth, email addresses and passwords that were not as well protected as those involved in 2014, security questions and answers were also compromised. In October of 2017, Yahoo revised that estimate, saying that, in fact, all 3 billion user accounts had been compromised.
+
 #### The breaches knocked an estimated $350 million off Yahoo’s sale price. Verizon eventually paid $4.48 billion for Yahoo’s core Internet business. The agreement called for the two companies to share regulatory and legal liabilities from the breaches.
 
+#### This has only become recently released to the public about 
+### 2nd case study
+
 ## Process of Software Development
-####
+#### 
 
 ## Software Development Vulnerabilities
 ####
