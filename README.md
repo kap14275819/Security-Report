@@ -14,10 +14,10 @@
 
 #### The breaches knocked an estimated $350 million off Yahoo’s sale price. Verizon eventually paid $4.48 billion for Yahoo’s core Internet business. The agreement called for the two companies to share regulatory and legal liabilities from the breaches.
 
-#### This has only become recently released to the public about 
+#### This has only become recently released to the public about the theft of user account details such as email addresses, telephone numbers and hashed passwords. An independant committee was set-up to investigate the incident and found that the Yahoo security team and senior executives actually knew that a state-sponsored actor had hacked certain user accounts back in 2014, according to the filing.
 ### 2nd case study
 
-## Process of Software Development
+## Process of Software Development 
 #### 
 
 ## Software Development Vulnerabilities
