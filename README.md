@@ -14,8 +14,22 @@
 
 #### The breaches knocked an estimated $350 million off Yahoo’s sale price. Verizon eventually paid $4.48 billion for Yahoo’s core Internet business. The agreement called for the two companies to share regulatory and legal liabilities from the breaches.
 
-#### This has only become recently released to the public about the theft of user account details such as email addresses, telephone numbers and hashed passwords. An independant committee was set-up to investigate the incident and found that the Yahoo security team and senior executives actually knew that a state-sponsored actor had hacked certain user accounts back in 2014, according to the filing.
-### 2nd case study
+#### This has only become recently released to the public about the theft of user account details such as email addresses, telephone numbers and hashed passwords. An independant committee was set-up to investigate the incident and found that the Yahoo security team and senior executives actually knew that a state-sponsored actor had hacked certain user accounts back in 2014. The Yahoo security team also knew that the state-sponsored actor had stolen copies of backup files that had contained users' personal data. It was only about two years later when Yahoo publicly disclosed the breach. That came after a stolen database from the company allegedly went up for sale on the black market.
+#### It was only about two years later when Yahoo publicly disclosed the breach. That came after a stolen database from the company allegedly went up for sale on the black market. That breach originally occurred in August 2013 but wasn’t noticed until law enforcement provided Yahoo with a copy of the stolen data last November. Because of the breaches, Yahoo said the company is facing about 43 class action lawsuits.
+### Uber Breach (October 2016)
+#### Uber concealed a hack that affected 57 million customers and drivers worldwide and 2.7 million users in the UK, the company has confirmed. The breach (which took place in 2016) was kept under wraps by the taxi-hailing firm, which paid hackers $100,000 (£75,000) to delete the data.
+
+Uber confirmed that names, email addresses and mobile phone numbers of customers were exposed and of the 57 million impacted, 600,000 drivers had their names and licence details compromised. 
+
+And while the drivers have been offered free credit monitoring protection, the firm is yet to offer anything to affected customers. 
+
+According to Bloomberg, Uber's former chief executive Travis Kalanick knew about the breach over a year ago. The firm's chief security officer Joe Sullivan has left the company.
+
+In a written statement, Uber CEO Dara Khosrowshahi said: "While we have not seen evidence of fraud or misuse tied to the incident, we are monitoring the affected accounts and have flagged them for additional fraud protection.
+
+"None of this should have happened, and I will not make excuses for it."
+
+Uber confirmed to the Information Commissioner that 2.7 million - over half - of Uber's UK users had been affected. The National Cyber Security Centre suggested "vigilance" against email phishing or scam phone calls in light of the hack.
 
 ## Process of Software Development 
 #### 
@@ -32,4 +46,4 @@ search online software development vulnerability PDF articles
 #### https://en.wikipedia.org/wiki/Software_development
 #### https://en.wikipedia.org/wiki/Vulnerability_(computing)
 #### https://www.csoonline.com/article/3176181/security/yahoo-execs-botched-its-response-to-2014-breach-investigation-finds.html
-https://www.csoonline.com/article/2130877/data-breach/the-biggest-data-breaches-of-the-21st-century.html
+#### https://www.techworld.com/security/uks-most-infamous-data-breaches-3604586/
