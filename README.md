@@ -31,7 +31,6 @@
 ## Software Development Vulnerabilities
 ####
 
-research 2 case studies that highlight issue related to security, integrity, confidence, publicity
 discuss the process of software development think about Software development lifcycles (use secondary research against each of the stages to highlight issues and include methods of mitigation) 
 draw a conclusion from your work and code
 search online software development vulnerability PDF articles
