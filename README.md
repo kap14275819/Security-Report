@@ -26,7 +26,7 @@
 ####  The company said more sensitive information, such as location data, credit card numbers, bank account numbers, social security numbers, and birth dates, had not been compromised. Uber said in a statement to drivers that it would offer those affected free credit monitoring and identity theft protection. According to Bloomberg, the breach occured when two hackers obtained login credentials to access data stored on Uber’s Amazon Web Services account. Paul Lipman, CEO of cybersecurity firm BullGuard, said that the fact that the data was being stored unencrypted was “unforgivable”.
 
 ## Process of Software Development 
-#### 
+#### A software development process is also known as a software methodoloy that has a set of related activities that then leads to the production fo the software
 
 ## Software Development Vulnerabilities
 ####
